@@ -9,8 +9,10 @@
     --yellow: yellow;
     --black: black;
     --white: white;
+}
 
-
+html {
+    scroll-behaivor:smooth;
 }
 
 .header {
