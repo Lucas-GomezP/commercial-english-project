@@ -12,8 +12,8 @@ Participants:
 In this project, we decided to create a real website as we considered it a great opportunity to put into practice the knowledge acquired in other subjects, as well as a significant challenge to complete entirely in English.
 Below, you will find two links. The first one leads to the visible and functional website, while the second one is a project repository where you can see all the code developed for it. To maintain linguistic consistency, all parameters, class names, etc., were also written in English.
 
-[Webpage]()
-[Repository]()
+[Webpage](https://lucas-gomezp.github.io/commercial-english-project/)
+[Repository](https://github.com/Lucas-GomezP/commercial-english-project)
 
 ## About Us
 Below, you will also find the text used in the "About Us" section for better readability and possible correction:
