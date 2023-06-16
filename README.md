@@ -6,7 +6,7 @@ Participants:
 * Grosso, M Alejandro
 * Huck, Gabriel
 * Lopez, Julieta Anahi
-* Wagner Canberra, Idana Noely
+* Wagner Canbrera, Idana Noely
 
 ## Introduction
 In this project, we decided to create a real website as we considered it a great opportunity to put into practice the knowledge acquired in other subjects, as well as a significant challenge to complete entirely in English.
